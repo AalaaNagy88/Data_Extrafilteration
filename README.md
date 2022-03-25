@@ -1,10 +1,10 @@
 Anomaly Data Extrafilteration detection
 ========================================
 As the domain traffic is usually allowed to pass through enterprise firewalls without deep 
-inspection the attackers exploit this to steal sensitive information. 
+inspection the attackers exploit this to steal sensitive information. docs/paper_summary.pdf
 
-<a href="../docs/paper_summary.pdf">Paper Summary and Critical review</a><br>
-<a href="../docs/experiement_test.pdf">Model Experiemts report</a>
+<a href="./docs/paper_summary.pdf">Paper Summary and Critical review</a><br>
+<a href="./docs/experiement_test.pdf">Model Experiemts report</a>
 
 Project Organization
 ------------
